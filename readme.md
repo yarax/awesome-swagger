@@ -17,6 +17,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Table of Contents
 
+- [Swagger](#swagger)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-end Development](#front-end-development)
@@ -34,6 +35,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Learn](#learn)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
+
+
+
+## Swagger
+
+- [swagger.io](https://http://swagger.io/)
+- [Swagger repos ](https://github.com/swagger-api)
 
 
 ## Platforms
