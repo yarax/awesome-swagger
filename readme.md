@@ -26,8 +26,7 @@
 
 - [Ruby Grape Swagger](https://github.com/ruby-grape/grape-swagger) swagger compliant documentation to your grape API
 - [Swagger UI as Rails Engine](https://github.com/ruby-grape/grape-swagger-rails)
-
-
+- [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql) Auto adapter of Swagger schemas to GraphQL types
 
 
 ## License
