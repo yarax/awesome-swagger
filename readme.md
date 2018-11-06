@@ -20,6 +20,7 @@
 ## Projects
 
 - [Swagger Code Generation](https://github.com/swagger-api/swagger-codegen)
+- [Swagger-To](https://github.com/Parquery/swagger-to)
 
 
 ## Third-Party-Projects
